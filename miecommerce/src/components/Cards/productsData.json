@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Producto 1",
+    "price": 10.99,
+    "image": "https://media.discordapp.net/attachments/1140434943307169848/1140825516501385318/dylffnir_black_jeans_white_background_catalog_product_photo_ult_7c81b06b-bade-4aaa-ac73-a95cdc78bd2a.png?width=418&height=418",
+    "category": "ropa",
+    "description": "Descripción del producto 1"
+  },
+  {
+    "id": 2,
+    "name": "Producto 2",
+    "price": 15.99,
+    "image": "https://media.discordapp.net/attachments/1140434943307169848/1140825518439157912/dylffnir_black_converse_shoes_white_background_catalog_product__663463cb-8750-4ab7-98fc-c1d3df357b32.png?width=418&height=418",
+    "category": "ropa",
+    "description": "Descripción del producto 2"
+  },
+  {
+    "id": 3,
+    "name": "Producto 3",
+    "price": 30.99,
+    "image": "https://media.discordapp.net/attachments/1137476195403972619/1145075579822022737/anonymous_computer_on_a_table_white_background_HD_325724db-1eb8-4948-9469-22aeef34e7a6.png?width=418&height=418",
+    "category": "electrónica",
+    "description": "Descripción del producto 3"
+  },
+  {
+    "id": 4,
+    "name": "Producto 4",
+    "price": 15.99,
+    "image": "https://media.discordapp.net/attachments/976997386436104202/1145076622488244395/darkirn_61079_cell_phone_on_a_table_white_background_HD_946d78a7-ee0c-4ad9-a476-b48cc96209dc.png?width=418&height=418",
+    "category": "electrónica",
+    "description": "Descripción del producto 4"
+  },
+  {
+    "id": 5,
+    "name": "Producto 5",
+    "price": 15.99,
+    "image": "https://media.discordapp.net/attachments/976997386436104202/1145082306646786089/darkirn_61079_armchair_with_a_white_background_type_product_for_180feed1-49b7-4c09-a025-8794c5da4c98.png?width=418&height=418",
+    "category": "hogar",
+    "description": "Descripción del producto 5"
+  },
+  {
+    "id": 6,
+    "name": "Producto 6",
+    "price": 15.99,
+    "image": "https://media.discordapp.net/attachments/976997386436104202/1145081529119281303/darkirn_61079_headphones_on_a_table_white_background_HD_568a5fab-76b7-4a34-be60-e9b0844fd03a.png?width=418&height=418",
+    "category": "electrónica",
+    "description": "Descripción del producto 6"
+  },
+  {
+    "id": 7,
+    "name": "Producto 7",
+    "price": 16.99,
+    "image": "https://i.pinimg.com/564x/5a/73/8b/5a738b8a1645abe6e850993bb6b09a41.jpg",
+    "category": "deportes",
+    "description": "Descripción del producto 7"
+  },
+  {
+    "id": 8,
+    "name": "Producto 8",
+    "price": 16.99,
+    "image": "https://i.pinimg.com/564x/e5/5f/3f/e55f3f567f953e8f6b71a5765e448fac.jpg",
+    "category": "deportes",
+    "description": "Descripción del producto 8"
+  },
+  {
+    "id": 9,
+    "name": "Producto 9",
+    "price": 16.99,
+    "image": "https://media.discordapp.net/attachments/1140434943307169848/1140825517893877812/dylffnir_black_and_red_cap_white_background_catalog_product_pho_7dbdd72a-9cc6-456f-97ba-6841dc493b0b.png?width=418&height=418",
+    "category": "ropa",
+    "description": "Descripción del producto 8"
+  }
+]
